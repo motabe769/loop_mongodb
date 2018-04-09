@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "database_toko": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://motabe:123456@localhost:27017/data_toko",
+    "database": "data_toko",
+    "password": "123456",
+    "name": "database_toko",
+    "user": "motabe",
+    "connector": "mongodb"
+  }
+}
